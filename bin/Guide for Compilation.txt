@@ -1,0 +1,15 @@
+------------------------------------------------------------------------------------------------------------
+
+- STEPS FOR COMPILATION:
+
+
+Step 1)  First, Paste this in VS Code's Terminal:
+	 cd bin
+
+Step 2)  Then, Paste this: 
+	 gcc ../src/main.c -I../include -L../lib -lraylib -lopengl32 -lgdi32 -lwinmm -mwindows -o run.exe
+
+Step 3)  Now, Paste this:
+	 start run.exe
+
+-----------------------------------------------------------------------------------------------------------
