@@ -4,10 +4,11 @@ A Programming Fundamentals (PF-LAB) Final Project
 
 📌 Overview
 
-This project is a GUI-based Tic-Tac-Toe game developed in C using the Raylib graphics library. It allows two local players to log in, choose their symbols, and compete on an intuitive graphical board.
-The system includes a login/registration system, symbol selection, settings, a Top-10 leaderboard, and proper detection of win/draw states.
+This project is a GUI-based Tic-Tac-Toe game developed in C using the Raylib graphics library. It was created as a final project for my 1st-semester Programming Fundamentals (PF-LAB) course, in collaboration with my teammate, [Muhammad Rohaan](https://github.com/K250026MuhammadRohaan).
 
-This project demonstrates core programming concepts such as arrays, loops, structures, conditional logic, modular programming, and GUI development using Raylib.
+The game allows two local players to log in, choose their symbols, and compete on an intuitive graphical board. The system includes a login/registration system, symbol selection, settings, a Top-10 leaderboard, and proper detection of win/draw states.
+
+This project demonstrates core programming concepts such as arrays, loops, structures, conditional logic, modular programming, and GUI development using Raylib
 
 ✨ Features
 🎮 Gameplay
