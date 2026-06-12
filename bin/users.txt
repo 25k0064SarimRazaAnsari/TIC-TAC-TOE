@@ -1,6 +1,6 @@
-Alice 111 15 10 5 0.43 30
-Bob 222 7 3 0 0.47 10
-Charlie 333 20 5 5 0.57 30
+Sarim 111 18 11 6 0.45 35
+Rohaan 222 8 6 1 0.40 15
+Ali 333 20 5 5 0.57 30
 Daniyal 444 2 1 0 0.25 3
 Eman 555 0 0 0 0.00 0
 Faisal 666 8 12 0 0.32 20
@@ -11,7 +11,9 @@ PlayerX 147 1 0 0 0.17 1
 Zara 258 5 5 0 0.33 10
 MyFirstName123 123 10 10 6 0.32 26
 MySecondName456 456 10 10 6 0.32 26
-Muhammad_Rohaan qwerty 22 22 10 0.37 54
-Sarim_Raza_Ansari asdfgh 22 22 10 0.37 54
-S 456 1 3 2 0.09 6
-R 123 3 1 2 0.27 6
+Muhammad_Rohaan qwerty 21 23 10 0.36 54
+Sarim_Raza_Ansari asdfgh 23 21 10 0.39 54
+R 1 2 2 2 0.18 6
+S 1 2 2 2 0.18 6
+roshil 123 0 1 1 0.00 2
+sarim124 12345 1 0 1 0.14 2
